@@ -1,3 +1,10 @@
+/* AIM :-
+Write a Java program that prompts the user to enter a single letter (character). Determine whether
+the entered character is a vowel (a, e, i, o, u, case-insensitive) or a consonant, and display the
+result. */
+
+
+
 import java.util.*;
 
 public class P3 {
